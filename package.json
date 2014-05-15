@@ -1,5 +1,5 @@
 {
-  "name": "reset-table",
+  "name": "shoelace-ui-reset-table",
   "version": "0.0.1",
   "description": "reset-table opaque mixin",
   "main": "index.styl",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/shouelace-ui/reset-table"
+    "url": "git://github.com/shoelace-ui/reset-table"
   },
   "keywords": [
     "reset",
@@ -19,7 +19,7 @@
   "author": "Brannon Lucas <brannonlucas@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/shouelace-ui/reset-table/issues"
+    "url": "https://github.com/shoelace-ui/reset-table/issues"
   },
-  "homepage": "https://github.com/shouelace-ui/reset-table"
+  "homepage": "https://github.com/shoelace-ui/reset-table"
 }
