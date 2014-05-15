@@ -1,0 +1,25 @@
+{
+  "name": "reset-table",
+  "version": "0.0.1",
+  "description": "reset-table opaque mixin",
+  "main": "index.styl",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/shouelace-ui/reset-table"
+  },
+  "keywords": [
+    "reset",
+    "table",
+    "stylus",
+    "shoelace"
+  ],
+  "author": "Brannon Lucas <brannonlucas@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/shouelace-ui/reset-table/issues"
+  },
+  "homepage": "https://github.com/shouelace-ui/reset-table"
+}
