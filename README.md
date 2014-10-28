@@ -1,11 +1,13 @@
 # reset-table
-`reset-table` opaque mixin
 
-## Installation
-```sh
-$ npm install git://github.com/shoelace-ui/reset-table.git
+reset-table opaque mixin
+
+## Usage
+
+```stylus
+@require 'shoelace-ui-reset-table'
 ```
 
 ## License
 
-[MIT](./LICENSE)
+MIT
